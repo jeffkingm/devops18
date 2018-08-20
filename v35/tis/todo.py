@@ -5,7 +5,7 @@
 *    Installera git lokalt i din datoor: { https://git-scm.com/download/ }
 *
 *    VIKTIGA TERMINALFÖNSTRETS KOMMANDO FÖR git
-*    { git init } : Skapar ett .git katalog lokalt i din dator där all information som git behöver lagras 
+*    { git init } : Skapar .git katalog lokalt i din dator där all information som git behöver lagras 
 *    
 *    { git add * } : Instruktion för att lägga till allt innehåll(filer) i den lokala katalogen till git
 *    
