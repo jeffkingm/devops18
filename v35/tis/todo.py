@@ -15,6 +15,8 @@
 *
 *    { git push -u origin master } : Instruktion till git att lägga upp innehållet i katalogen till git repository
 *
+*    { git clone[url till git repository] } : Klona en git repository lokalt i din dator
+  
 *    Kontrollera i din git repository att allt lades upp 
 *  
 *    UTVECKLINGSMILJÖ FÖR PYTHON
