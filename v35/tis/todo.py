@@ -4,7 +4,8 @@
 *    Skapa en repository
 *    Installera git lokalt i din datoor: { https://git-scm.com/download/ }
 *    
-*    git KONFIGURATION LOKALT I KOMMANSDOTOLKEN
+*    git KONFIGURATIONER LOKALT DIN DATOR I KOMMANSDOTOLKEN
+*
 *    { git init } : Skapar .git katalog lokalt i din dator där all information som git behöver lagras 
 *    
 *    { git add * } : Instruktion för att lägga till allt innehåll(filer) i den lokala katalogen till git
@@ -17,7 +18,7 @@
 *
 *    { git clone[url:n-till-git-repositoryn] } : Klona en git repository lokalt i din dator
   
-*    Kontrollera i din git repository att allt lades upp 
+*     Kontrollera i din git repository att allt lades upp 
 *  
 *    UTVECKLINGSMILJÖ FÖR PYTHON
 *    Installera pycharm: { https://www.jetbrains.com/pycharm/download/ }
